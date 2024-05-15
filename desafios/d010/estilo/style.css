@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* Responsividade main: (width) min 400, max 800 */
+/* Responsividade main: (width) min 300, max 950 */
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
@@ -55,7 +55,7 @@ header > p {
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0,0,0,0.315);
 }
 
@@ -85,7 +85,7 @@ main {
     background-color: white;
     color: black;
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 950px;
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
